@@ -148,7 +148,7 @@ The project has been divided into 5 key phases and working dates have been alloc
 
 |Phase                |Key Tasks                                    | Dates           |
 |---------------------|---------------------------------------------|-----------------|
-|1. Requirements Gathering and Analysis |All members * Idea pitch * Assessment of feedback               |26th Aug - 05 Sep |
+|1. Requirements Gathering and Analysis |All members involved in pitching of idea and the analysis of feedback received. All requirements to be captured and understood by all members of the project team. Require access to a room for meetings and planning.  |26th Aug - 05 Sep |
 |2. Design           |Key Tasks                                    | 06 Sep - 19th Sep |
 |3. Development      |Key Tasks                                    | 20 Sep - 16th Oct |
 |4. Testing          |Key Tasks                                    | 17th Oct - 25 Oct |
