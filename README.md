@@ -149,10 +149,10 @@ The project has been divided into 5 key phases and working dates have been alloc
 |Phase                |Key Tasks                                    | Dates           |
 |---------------------|---------------------------------------------|-----------------|
 |1. Requirements Gathering and Analysis |All members involved in pitching of idea and the analysis of feedback received. All requirements to be captured and understood by all members of the project team. Require access to a room for meetings and planning.  |26th Aug - 05 Sep |
-|2. Design           |Key Tasks                                    | 06 Sep - 19th Sep |
-|3. Development      |Key Tasks                                    | 20 Sep - 16th Oct |
-|4. Testing          |Key Tasks                                    | 17th Oct - 25 Oct |
-|5. Implementation   |Key Tasks                                    | 26th Oct      |
+|2. Design           |Gima and Emma - Break down of requirements into realistic time frames. Paper prototyping to be conducted therefore access to PhotoShop is required. Demonstration of paper prototyping in Week 8 Standup.                                    | 06 Sep - 19th Sep |
+|3. Development      |Taylor and Rawan - Development of main requirements and the main interfaces to be built (with minimal functionality) for the Week 10 Standup. Will require access to computers and spaces for meetings.                                   | 20 Sep - 16th Oct |
+|4. Testing          |Gima and Emma - User acceptance testing to be conducted therefore require a set of users. Results from UAT to be presented in Week 12 Standup. Will require access to computers and spaces for meetings.                                    | 17th Oct - 25 Oct |
+|5. Implementation   |Deployment of project in preparation of due date. Additionally the completion of the promotional video therefore video camera and video editing software is required.                                     | 26th Oct      |
 
 # Tags
 The following 5 key concepts have been selected as the tags from the social and mobile lectures:
