@@ -146,8 +146,8 @@ The project has the following key deliverables:
 ### Project Phases
 The project has been divided into 5 key phases and working dates have been allocated for each phase. A significant amount of time has been allocated to the Development phase as this will contain the largest amount of work. 
 
-|Phase                               |Key Tasks                                    | Dates           |
-|------------------------------------|---------------------------------------------|-----------------|
+|Phase                    |Key Tasks                        | Dates           |
+|-------------------------|---------------------------------|-----------------|
 |1. Requirements Gathering and Analysis |All members involved in pitching of idea and the analysis of feedback received. All requirements to be captured and understood by all members of the project team. Require access to a room for meetings and planning.  |26th Aug - 05 Sep |
 |2. Design           |Gima and Emma - Break down of requirements into realistic time frames. Paper prototyping to be conducted therefore access to PhotoShop is required. Demonstration of paper prototyping in Week 8 Standup.                                    | 06 Sep - 19th Sep |
 |3. Development      |Taylor and Rawan - Development of main requirements and the main interfaces to be built (with minimal functionality) for the Week 10 Standup. Will require access to computers and spaces for meetings.                                   | 20 Sep - 16th Oct |
