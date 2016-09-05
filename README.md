@@ -21,6 +21,7 @@ Additional functionality includes the use of audible notifications and voice com
 
 * “Breaking news alert”
 * “A new recording has been uploaded for a topic you are following”
+* "A new recording has been uploaded for a journalist you are following"
 * “A new recording has been uploaded for your local area”
 
 Users will then be able to interact with the application by responding with either “listen” or “ignore” after the automated prompts have ceased. If they choose to listen, they will be read the headline, then prompted one more time to either listen or ignore. After listening to the recording, the user will be able to use their voice to command the application to share the story to Facebook, Twitter, or Email, however in the deliverable prototype we will focus on clickable links for this shareable content.
@@ -42,7 +43,7 @@ After presenting the pitch we received feedback that we believe will be benefici
 
 * **Will there be an option to mute the application for meetings?**
 
-The application will incorporate a feature similar to Facebook's notification settings. The user will be given an option to mute notifications/alerts for a specified time period, for example 1 hour. 
+The application will incorporate a feature similar to Facebook's notification settings. The user will be given an option to mute notifications/alerts for a specified time period, for example 1 hour or disable the alerting option entirely. 
 
 * **Is there a reward system that will offer incentive for users to use this application rather than other mainstream news applications?** 
 
