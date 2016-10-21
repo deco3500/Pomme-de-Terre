@@ -1,0 +1,77 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Record a News Story</title>
+<link href="css/record.css" rel="stylesheet" type="text/css">
+<script src="js/audio.js"></script>
+</head>
+<body>
+
+<audio controls autoplay>
+  <source src="audio/submit.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+
+<!-- Main Container -->
+<div class="container"> 
+  <!-- Hero Section -->
+  <div class="intro">
+    <div class="columnLeft">
+      <img src="images/logo.png" alt="JournaListen logo" class="profile" style="width:80%; height:80%;" alt="Journalisten Logo"> 
+	</div>
+    <div class="columnRight">
+      <p>Record a Story</p>
+    </div>
+  </div>
+  
+  <!-- Navigation Bar -->
+	<nav>
+	  <ul>
+		<li><a class="active" href="indexVI.html">HOME</a></li>
+		<li><a href="breakingVI.html">Breaking</a></li>
+		<li><a href="#">National</a></li>
+		<li><a href="#">World</a></li>
+		<li><a href="#">Lifestyle</a></li>
+		<li><a href="#">Travel</a></li>
+		<li><a href="#">Entertainment</a></li>
+		<li><a href="#">Technology</a></li>
+		<li><a href="#">Finance</a></li>
+	  	<li><a href="#">Sports</a></li>
+		<li><a class="active" href="record.html">Record a Story</a></li>
+	  	<li><a href="splash.html">Back to Splash</a></li>
+	  </ul>
+	</nav>
+	
+  <div id = "space"><br>
+  	<!-- Spacer Div -->
+  </div>
+  
+  <!-- Grid Layout / Gallery Section -->
+  <div class="gallery">
+    
+	<!-- Record Section -->
+	<div class="thumbnail">
+      <h4>Record a News Story below</h4>
+	  <p class="text_column">Use the keyboard to activate the buttons</p><br><div id = "space"><!-- Spacer Div --></div>
+	  
+	  <img src="images/play.jpg" alt="Breaking News" width="2000" class="cards"/>
+	  
+	  <audio id="playSubmit" src="audio/submit.mp3"></audio>
+	  <div class="submit" onClick="play()">Submit</div>
+	  
+	</div>
+	
+	<!-- Scroll to Top -->
+	<a href="#" class="scrollToTop">BACK TO TOP</a>
+  </div>  
+  
+  <!-- Copyrights Section -->
+  <div class="copyright">&copy;2016 - <strong>JOURNALISTEN</strong></div>
+</div>
+<!-- Main Container Ends -->
+</body>
+</html>
