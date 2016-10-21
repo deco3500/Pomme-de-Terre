@@ -7,7 +7,19 @@
 <title>Record a News Story</title>
 <link href="css/record.css" rel="stylesheet" type="text/css">
 <script src="js/audio.js"></script>
+<!--script src="js/play.js"></script-->
 </head>
+
+<!-- Audio Files -->
+<audio id="playRecord" src="audio/begin.mp3"></audio> <!-- Begin Recording: Key 1 -->
+<audio id="playPause" src="audio/pause.mp3"></audio> <!-- Pause: Key 2 -->
+<audio id="playStop" src="audio/stop.mp3"></audio> <!-- Stop: Key 3 -->
+<audio id="playPlay" src="audio/play.mp3"></audio> <!-- Play: Key 4 -->
+<audio id="playRefresh" src="audio/refresh.mp3"></audio> <!-- Refresh: Key 5 -->
+<audio id="playSubmit" src="audio/submit.mp3"></audio><!-- Submit: Key 6 -->
+<audio id="playInstructions" src="audio/instructions.mp3"></audio> <!-- Instructions: Key 7 -->
+
+
 <body>
 
 <!-- Main Container -->
@@ -56,9 +68,9 @@
       <h4>Record a News Story below</h4>
 	  <p class="text_column">Use the keyboard to activate the buttons</p><br><div id = "space"><!-- Spacer Div --></div>
 	  
-	  <img src="images/recordStory.jpg" alt="Record story interface">
 	  
-	  <audio id="playSubmit" src="audio/submit.mp3"></audio>
+	  
+	  <img src="images/recStory.jpg" alt="Record story interface">
 	  <div class="submit" onClick="play()">Submit</div>
 	  
 	</div>
