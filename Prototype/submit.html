@@ -1,0 +1,89 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Submit a Story</title>
+<link href="css/news.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+<!-- Main Container -->
+<div class="container"> 
+  <!-- Hero Section -->
+  <div class="intro">
+    <div class="columnLeft">
+      <a href="index.html"><img src="images/logo.png" alt="JournaListen logo" class="profile" style="width:80%; height:80%;" alt="Journalisten Logo"></a>
+	</div>
+    <div class="columnRight">
+      <h1>Submit a Story</h1>
+    </div>
+  </div>
+  
+  <!-- Navigation Bar -->
+	<nav>
+	  <ul>
+		<li><a class="active" href="index.html">HOME</a></li>
+		<li><a href="breaking.html">Breaking</a></li>
+		<li><a href="#">National</a></li>
+		<li><a href="#">World</a></li>
+		<li><a href="#">Lifestyle</a></li>
+		<li><a href="#">Travel</a></li>
+		<li><a href="#">Entertainment</a></li>
+		<li><a href="#">Technology</a></li>
+		<li><a href="#">Finance</a></li>
+	  	<li><a href="#">Sports</a></li>
+		<li><a class="active" href="submit.html">Write a Story</a></li>
+		<li><a href="record.html" onclick="return confirm('This has been designed to aid visually impaired users to be able to use this function')">Record a Story</a></li>
+	  	<li><a href="splash.html">Back to Splash</a></li>
+	  </ul>
+	</nav>
+	
+  <div id = "space"><br>
+  	<!-- Spacer Div -->
+  </div>
+  
+  <div class="gallery">
+    
+	<!-- Story #1 -->
+	<div class="thumbnail">
+	  
+	<!-- Form-->
+	<form>
+	  Type of story: <select name="type">
+       <option value="breaking">Breaking</option>
+       <option value="national">National</option>
+       <option value="world">World</option>
+       <option value="lifestyle">Lifestyle</option>
+       <option value="travel">Travel</option>
+       <option value="entertainment">Entertainment</option>
+       <option value="technology">Technology</option>
+       <option value="finance">Finance</option>
+       <option value="sports">Sports</option>
+  </select><br>
+	  First name: <input type="text" name="firstname">
+	  <br>
+	  Last name: <input type="text" name="lastname">
+	  <br>
+	  Headline: <input type="text" name="headline">
+	  <br>
+	  Caption: <input type="text" name="caption">
+	  <br>
+	  <textarea name="message" rows="10" cols="30">Please write your story here.</textarea>
+	  <br>
+	  Image: <input type="text" name="image" placeholder="tinypic link">
+	</form>
+	
+	<a href="submit.html"><div class="submit" onclick="return confirm ('Thank you! Your story has been submitted for review.')">Submit</div></a>
+	  </div>
+    </div>	
+  </div>
+  
+  <!-- Copyrights Section -->
+  <div class="copyright">&copy;2016 - <strong>JOURNALISTEN</strong></div>
+</div>
+<!-- Main Container Ends -->
+</body>
+</html>
