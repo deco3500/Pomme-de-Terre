@@ -1,6 +1,5 @@
 # Pomme-de-Terre - "JournaListen"
-Prototype (GitHub Preview): 
-http://htmlpreview.github.io/?https://github.com/deco3500/Pomme-de-Terre/blob/master/Journalisten/splash.html
+Prototype (GitHub Preview): http://htmlpreview.github.io/?https://github.com/deco3500/Pomme-de-Terre/blob/master/Journalisten/splash.html
 
 # Introduction
 The use of smartphones in Australia is continuing to increase and every day users are actively checking their social media applications. These applications are beginning to represent primary resources for daily news. However they lead to a noticeable gap between news broadcasters/journalists and audiences. The journalism industry needs to keep pace with the change and find a new way to deliver their news and increase their audience. As a result, the team plans to design and implement an innovative way to present the news. The proposed project will be a mobile application, “JournaListen” which intends to utilize the same domain and concepts that the social media applications have adopted. 
