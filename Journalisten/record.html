@@ -10,12 +10,6 @@
 </head>
 <body>
 
-<audio controls autoplay>
-  <source src="audio/submit.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
-
-
 <!-- Main Container -->
 <div class="container"> 
   <!-- Hero Section -->
@@ -46,9 +40,13 @@ Your browser does not support the audio element.
 	  </ul>
 	</nav>
 	
-  <div id = "space"><br>
-  	<!-- Spacer Div -->
-  </div>
+  <div id = "space"><br><!-- Spacer Div --></div>
+  
+  <!-- Automatic playing of audio on load and controls 
+  <audio controls autoplay>
+	<source src="audio/instructions.mp3" type="audio/mpeg"> Your browser does not support the audio element.
+  </audio> -->
+  
   
   <!-- Grid Layout / Gallery Section -->
   <div class="gallery">
@@ -58,7 +56,7 @@ Your browser does not support the audio element.
       <h4>Record a News Story below</h4>
 	  <p class="text_column">Use the keyboard to activate the buttons</p><br><div id = "space"><!-- Spacer Div --></div>
 	  
-	  <img src="images/play.jpg" alt="Breaking News" width="2000" class="cards"/>
+	  <img src="images/recordStory.jpg" alt="Record story interface">
 	  
 	  <audio id="playSubmit" src="audio/submit.mp3"></audio>
 	  <div class="submit" onClick="play()">Submit</div>

@@ -170,6 +170,11 @@ a {
 	border-top-width: 2px;
 }
 
+/* Audio */
+audio {
+	float: right;
+}
+
 /* Footer */
 footer {
 	background-color: #B3B3B3;
