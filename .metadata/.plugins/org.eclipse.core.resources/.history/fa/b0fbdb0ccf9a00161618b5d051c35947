@@ -1,0 +1,14 @@
+0000000000000000000000000000000000000000 1516d0569c69ddd85b44441a23d855660caf787b Taylor Rose <taylorj.rose@hotmail.com> 1477019501 +1000	clone: from https://github.com/deco3500/Pomme-de-Terre.git
+1516d0569c69ddd85b44441a23d855660caf787b 37daa26731226e671ebc02f61a893c6ef2dd91ce Taylor Rose <taylorj.rose@hotmail.com> 1477019729 +1000	pull origin master: Fast-forward
+37daa26731226e671ebc02f61a893c6ef2dd91ce df248daf5537bdbd5ce7117355ea84f149328798 Taylor Rose <taylorj.rose@hotmail.com> 1477019750 +1000	commit: Web Prototype
+df248daf5537bdbd5ce7117355ea84f149328798 efe08bfd186c6673fd1b0408d8d70e066f746bd0 Taylor Rose <taylorj.rose@hotmail.com> 1477020314 +1000	commit: Organising File System
+efe08bfd186c6673fd1b0408d8d70e066f746bd0 22b98cadeb423d5ba9e99ee8400753deecfe9e0b Taylor Rose <taylorj.rose@hotmail.com> 1477020395 +1000	commit: Removing other section
+22b98cadeb423d5ba9e99ee8400753deecfe9e0b f577c6c9f4c5f4781c7bcb533cb6efe7c696c11f Taylor Rose <taylorj.rose@hotmail.com> 1477020476 +1000	commit: Renaming
+f577c6c9f4c5f4781c7bcb533cb6efe7c696c11f 4c24c4805703353e7af18ad6ba58ec34ef3cf9b5 Taylor Rose <taylorj.rose@hotmail.com> 1477026281 +1000	pull origin master: Fast-forward
+4c24c4805703353e7af18ad6ba58ec34ef3cf9b5 15f059acf160db4bef51e3c90637124ca9be65af Taylor Rose <taylorj.rose@hotmail.com> 1477026307 +1000	commit: Added record.html and other minor changes
+15f059acf160db4bef51e3c90637124ca9be65af bd913158b4098b59f31c04f472e190d9ac3c6245 Taylor Rose <taylorj.rose@hotmail.com> 1477027491 +1000	commit: Updated record.html, record.css and audio.js. Added audio instructions to the webpage (currently disabled). Removed some images that are not required.
+bd913158b4098b59f31c04f472e190d9ac3c6245 4ded694cf895970752b29b889f5822d8feca1506 Taylor Rose <taylorj.rose@hotmail.com> 1477031513 +1000	commit: Completed record.html and audio.js. All recordings can be found in /audio as .mp3 files
+4ded694cf895970752b29b889f5822d8feca1506 7ac294476b6cf0aa48472a4f6f74a48659685f9b Taylor Rose <taylorj.rose@hotmail.com> 1477031588 +1000	commit: Readded automatic playing of instructions upon loading record.html
+7ac294476b6cf0aa48472a4f6f74a48659685f9b 9416e2702389c2ec8f26bec50e3ad65cd40e85cf Taylor Rose <taylorj.rose@hotmail.com> 1477032015 +1000	pull origin master: Fast-forward
+9416e2702389c2ec8f26bec50e3ad65cd40e85cf ce9a1d2244e29c3f58e8f2f3ce1c84c42babc5a3 Taylor Rose <taylorj.rose@hotmail.com> 1477411818 +1000	pull origin master: Fast-forward
+ce9a1d2244e29c3f58e8f2f3ce1c84c42babc5a3 18baa39c33bf92a69795f59b044d5406a585647f Taylor Rose <taylorj.rose@hotmail.com> 1477411847 +1000	commit: Adding User Testing documentation
