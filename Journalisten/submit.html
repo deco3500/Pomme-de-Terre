@@ -46,13 +46,11 @@
   </div>
   
   <div class="gallery">
-    
-	<!-- Story #1 -->
-	<div class="thumbnail">
-	  
+	<!-- Story Record -->
+	 <div class="thumbnail"> 
 	<!-- Form-->
-	<form>
-	  Type of story: <select name="type">
+	<form id ="formSubmit">
+	  <p>Type of story:</p> <select name="type">
        <option value="breaking">Breaking</option>
        <option value="national">National</option>
        <option value="world">World</option>
@@ -63,22 +61,20 @@
        <option value="finance">Finance</option>
        <option value="sports">Sports</option>
   </select><br>
-	  First name: <input type="text" name="firstname">
+	  <p>First name: </p><input type="text" name="firstname">
 	  <br>
-	  Last name: <input type="text" name="lastname">
+	  <p>Last name: </p><input type="text" name="lastname">
 	  <br>
-	  Headline: <input type="text" name="headline">
+	  <p>Headline: </p><input type="text" name="headline">
 	  <br>
-	  Caption: <input type="text" name="caption">
+	  <p>Caption: </p><input type="text" name="caption">
 	  <br>
-	  <textarea name="message" rows="10" cols="30">Please write your story here.</textarea>
+	  <p>Story Submission: </p><textarea name="message" rows="10" cols="30">Please write your story here.</textarea>
 	  <br>
-	  Image: <input type="text" name="image" placeholder="tinypic link">
+	  <p>Image: </p><input type="text" name="image" placeholder="tinypic link">
 	</form>
-	
-	<a href="submit.html"><div class="submit" onclick="return confirm ('Thank you! Your story has been submitted for review.')">Submit</div></a>
-	  </div>
-    </div>	
+	<a href="#"><div class="submit" onclick="return confirm ('Thank you! Your story has been submitted for review.')">Submit</div></a>
+	</div>
   </div>
   
   <!-- Copyrights Section -->
