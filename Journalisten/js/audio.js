@@ -1,3 +1,17 @@
+//Play Breaking1 audio on breakingVI.html
+
+$(document).ready(function(){
+var playBtn = document.getElementById('play');
+var stopBtn = document.getElementById('stop');
+
+var playSound = function() {
+	audio.play();
+};
+
+playBtn.addEventListener('click', playSound, false);
+stopBtn.addEventListener('click', function(){audio.pause()}, false);
+});
+
 // Submit Button Audio
 function play() {
     var audio = document.getElementById('playSubmit');
