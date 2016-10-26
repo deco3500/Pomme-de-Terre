@@ -6,7 +6,8 @@ $(document).ready(function(){
 	$(".hide1").hide();
 	$(".hide2").hide();
 	$(".hide3").hide();
-	$("#stop").hide();
+	$("#stop1").hide();
+	$("#stop2").hide();
 	
     $(".bodyButton1").click(function(){
         $(".record1").show();
@@ -99,20 +100,29 @@ $(document).ready(function(){
         location.reload();
     });	
 	
-	// breakingVI.html
-	$("#play").click(function(){
-       $("#play").hide();
-       $("#stop").show();
+	// Breaking1 play/pause function (breakingVI.html)
+	$("#play1").click(function(){
+       $("#play1").hide();
+       $("#stop1").show();
     });
 	
-	$("#stop").click(function(){
-       $("#stop").hide();
-       $("#play").show();
+	$("#stop1").click(function(){
+       $("#stop1").hide();
+       $("#play1").show();
     });
 	
+	// Breaking2 play/pause function (breakingVI.html)
+	$("#play2").click(function(){
+       $("#play2").hide();
+       $("#stop2").show();
+    });
+	
+	$("#stop2").click(function(){
+       $("#stop2").hide();
+       $("#play2").show();
+    });
 
-
-// Return to Top:
+	// Return to Top:
 	//Check to see if the window is top if not then display button
 	$(window).scroll(function(){
 		if ($(this).scrollTop() > 100) {
