@@ -95,7 +95,6 @@ body {
 	padding-right: 20px;
 	font-size: 40px;
 }
-
 .gallery .thumbnail .tag {
 	padding-bottom: 4px;
 	padding-top: 4px;
@@ -104,7 +103,6 @@ body {
 	padding-right: 20px;
 	color: black;
 }
-
 .gallery .thumbnail p {
 	margin: 0;
 	color: black;
@@ -120,15 +118,6 @@ body {
 	padding-left: 20px;
 	padding-right: 20px;
 	}
-.gallery .thumbnail h5 {
-	margin-top: 5px;
-	margin-bottom: 5px;
-	color: #2700F3;
-	text-align: left;
-	padding-left: 20px;
-	padding-right: 20px;
-	font-size: 30px;
-}
 
 /* Submit Button*/
 .submit {
@@ -158,24 +147,58 @@ a {
 	text-decoration: none;
 }
 
-.copyright {
-	text-align: center;
-	padding-top: 20px;
-	padding-bottom: 20px;
-	background-color: #2700f3;
-	color: #FFFFFF;
-	text-transform: uppercase;
-	font-weight: lighter;
-	letter-spacing: 2px;
-	border-top-width: 2px;
-}
-
 /* Audio */
 audio {
 	float: right;
 }
 
-/* Footer */
+/* Instructions and Hide Button 1*/
+.insButton1 {
+	width: 200px;
+	margin-top: 20px;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+	padding-top: 20px;
+	padding-right: 10px;
+	padding-bottom: 20px;
+	padding-left: 10px;
+	text-align: center;
+	vertical-align: middle;
+	border-radius: 0px;
+	font-weight: bold;
+	border: 3px solid #2700f3;
+	color: #000000;
+}
+.insButton1:hover {
+	background-color: #2700f3;
+	color: #FFFFFF;
+	cursor: pointer;
+}
+.hideIns1 {
+	width: 200px;
+	margin-top: 20px;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+	padding-top: 20px;
+	padding-right: 10px;
+	padding-bottom: 20px;
+	padding-left: 10px;
+	text-align: center;
+	vertical-align: middle;
+	border-radius: 0px;
+	font-weight: bold;
+	border: 3px solid #2700f3;
+	color: #000000;
+}
+.hide1Ins:hover {
+	background-color: #2700f3;
+	color: #FFFFFF;
+	cursor: pointer;
+}
+
+/* Footer and Copyright*/
 footer {
 	background-color: #B3B3B3;
 	padding-top: 60px;
@@ -189,7 +212,17 @@ footer {
 	letter-spacing: 4px;
 	padding-top: 10px;
 }
-
+.copyright {
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: #2700f3;
+	color: #FFFFFF;
+	text-transform: uppercase;
+	font-weight: lighter;
+	letter-spacing: 2px;
+	border-top-width: 2px;
+}
 /* Return to Top */
 .scrollToTop{
 	position:fixed;
@@ -224,11 +257,9 @@ ul {
     background-color: #FFFFFF;
 	border: 3px solid #000000;
 }
-
 li {
     float: left;
 }
-
 li a {
     display: block;
     color: #2700f3;
@@ -238,12 +269,10 @@ li a {
 	font-size: 20px;
 	font-weight: bold;
 }
-
 li a:hover {
     background-color: #2700f3;
 	color: #FFFFFF;
 }
-
 li .active {
     background-color: #2700f3;
     color: white;

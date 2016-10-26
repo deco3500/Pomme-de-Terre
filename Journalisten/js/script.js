@@ -1,4 +1,4 @@
-// Hide and Show the Recordings on record.html
+// Hide and Show the Recordings on breaking.html
 $(document).ready(function(){
 	$(".record1").hide();
 	$(".record2").hide();
