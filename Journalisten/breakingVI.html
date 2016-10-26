@@ -8,8 +8,12 @@
 <link href="css/newsVI.css" rel="stylesheet" type="text/css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <script src="js/script.js"></script>
+<script src="js/audio.js"></script>
 </head>
 <body>
+
+<!-- Audio Files -->
+<audio id="audio" src="audio/Breaking1.mp3" preload="auto"></audio>
 
 <!-- Main Container -->
 <div class="container"> 
@@ -56,7 +60,9 @@
 	  
    	  <div id = "space"><br><!-- Spacer Div --></div>
 	  
-	  <img src="images/play.jpg" alt="Breaking News" width="2000" class="cards"/>
+	  <button id="play"><img src="images/play.jpg" alt="Play Breaking1" width="2000" class="cards"/></button>
+	  <button id="stop"><img src="images/pause.jpg" alt="Pause Breaking1" width="2000" class="cards"></button>
+	  
 	  <p class="ref">Reference: Breaking1</p>
 	  
 	  <div id = "space"><br>

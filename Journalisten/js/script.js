@@ -1,4 +1,18 @@
-// Hide and Show the Recordings
+//Play Breaking1 audio on breakingVI.html
+
+$(document).ready(function(){
+var playBtn = document.getElementById('play');
+var stopBtn = document.getElementById('stop');
+
+var playSound = function() {
+	audio.play();
+};
+
+playBtn.addEventListener('click', playSound, false);
+stopBtn.addEventListener('click', function(){audio.pause()}, false);
+});
+
+// Hide and Show the Recordings on record.html
 $(document).ready(function(){
 	$(".record1").hide();
 	$(".record2").hide();
@@ -6,6 +20,7 @@ $(document).ready(function(){
 	$(".hide1").hide();
 	$(".hide2").hide();
 	$(".hide3").hide();
+	$("#stop").hide();
 	
     $(".bodyButton1").click(function(){
         $(".record1").show();
@@ -97,6 +112,18 @@ $(document).ready(function(){
 	$(".submit").click(function(){
         location.reload();
     });	
+	
+	// breakingVI.html
+	$("#play").click(function(){
+       $("#play").hide();
+       $("#stop").show();
+    });
+	
+	$("#stop").click(function(){
+       $("#stop").hide();
+       $("#play").show();
+    });
+	
 
 
 // Return to Top:
