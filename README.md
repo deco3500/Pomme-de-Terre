@@ -1,5 +1,7 @@
 # Pomme-de-Terre - "JournaListen"
 Prototype (GitHub Preview - Updated 26.10.16): http://bit.ly/2eIeuSK 
+In order to get the full functioanlity of the JournaListen site, please use Google Chrome.
+You will also need to install the ChromeVox extension before you begin: http://www.chromevox.com/
 
 # Introduction
 The use of smartphones in Australia is continuing to increase and every day users are actively checking their social media applications. These applications are beginning to represent primary resources for daily news. However they lead to a noticeable gap between news broadcasters/journalists and audiences. The journalism industry needs to keep pace with the change and find a new way to deliver their news and increase their audience. As a result, the team plans to design and implement an innovative way to present the news. The proposed project will be a mobile application, “JournaListen” which intends to utilize the same domain and concepts that the social media applications have adopted. 
