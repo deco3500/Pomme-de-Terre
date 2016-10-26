@@ -1,6 +1,8 @@
 # Pomme-de-Terre - "JournaListen"
 Prototype (GitHub Preview - Updated 26.10.16): http://bit.ly/2eIeuSK 
-In order to get the full functioanlity of the JournaListen site, please use Google Chrome.
+
+In order to get the full functionality of the JournaListen site, please use Google Chrome.
+
 You will also need to install the ChromeVox extension before you begin: http://www.chromevox.com/
 
 # Introduction
