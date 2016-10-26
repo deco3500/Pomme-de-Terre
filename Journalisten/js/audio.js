@@ -1,4 +1,4 @@
-//Play Breaking1 audio on breakingVI.html
+// Play Breaking1 audio on breakingVI.html
 
 $(document).ready(function(){
 var playBtn = document.getElementById('play');
@@ -11,6 +11,12 @@ var playSound = function() {
 playBtn.addEventListener('click', playSound, false);
 stopBtn.addEventListener('click', function(){audio.pause()}, false);
 });
+
+// Revert back to play button when the audio for Breaking1 has finished
+function buttonChange() {
+    $("#play").show();
+    $("#stop").hide();
+}
 
 // Submit Button Audio
 function play() {
