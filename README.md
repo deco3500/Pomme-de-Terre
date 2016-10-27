@@ -5,6 +5,8 @@ In order to get the full functionality of the JournaListen site, please use Goog
 
 You will also need to install the ChromeVox extension before you begin: http://www.chromevox.com/
 
+Please find the annotated bibliography of the JournaListen protype here: (need to insert link when finished)
+
 # Introduction
 JournaListen, a service dedicated to delivering timely news to people living with low visibility or are visually impaired. It is aimed at giving people living with a visual impairment an opportunity to listen to lively news articles and create social interactions.
 This site encourages users with journalistic flair to record news articles for its users. Furthermore, enables the visually impaired to join discussions on breaking news and news articles compelling the user to state their opinion. Thus creating an inclusive environment encouraging social, online interaction for people living with a visual impairment.
