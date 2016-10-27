@@ -110,7 +110,7 @@ The following 5 key concepts have been selected as the tags from the social and 
 
 The following 2 keywords have been selected as related to journalism and news:
 * Relevance
-* Informative
+* Informative 
 
 
 
