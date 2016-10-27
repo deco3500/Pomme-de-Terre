@@ -1,11 +1,14 @@
 # Pomme-de-Terre - "JournaListen"
+
+View the Promotional Video here: https://vimeo.com/189228223
+
 Prototype (GitHub Preview - Updated 26.10.16): http://bit.ly/2eIeuSK 
 
 In order to get the full functionality of the JournaListen site, please use Google Chrome.
 
 You will also need to install the ChromeVox extension before you begin: http://www.chromevox.com/
 
-Please find the annotated bibliography of the JournaListen protype here: (need to insert link when finished)
+Please find the Annotated Portfolio of the JournaListen prototype here: https://github.com/deco3500/Pomme-de-Terre/blob/master/DECO3500%20JournaListen%20-%20PDF%20proof.pdf
 
 # Introduction
 JournaListen, a service dedicated to delivering timely news to people living with low visibility or are visually impaired. It is aimed at giving people living with a visual impairment an opportunity to listen to lively news articles and create social interactions.
