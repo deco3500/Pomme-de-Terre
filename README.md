@@ -9,6 +9,7 @@ In order to get the full functionality of the JournaListen site, please use Goog
 You will also need to install the ChromeVox extension before you begin: http://www.chromevox.com/
 
 Please find the Annotated Portfolio of the JournaListen prototype here: https://github.com/deco3500/Pomme-de-Terre/blob/master/DECO3500%20-%20%20Proof%20Copy.pdf
+
 Full the full experience use Adobe Reader and select View > Page Display > Two Page View.
 
 # Introduction
