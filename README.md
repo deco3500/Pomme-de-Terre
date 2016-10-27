@@ -6,57 +6,8 @@ In order to get the full functionality of the JournaListen site, please use Goog
 You will also need to install the ChromeVox extension before you begin: http://www.chromevox.com/
 
 # Introduction
-The use of smartphones in Australia is continuing to increase and every day users are actively checking their social media applications. These applications are beginning to represent primary resources for daily news. However they lead to a noticeable gap between news broadcasters/journalists and audiences. The journalism industry needs to keep pace with the change and find a new way to deliver their news and increase their audience. As a result, the team plans to design and implement an innovative way to present the news. The proposed project will be a mobile application, “JournaListen” which intends to utilize the same domain and concepts that the social media applications have adopted. 
-
-# Concept
-After receiving numerous feedback on the scale of our project and its various functionality, the group has divided the concept into two parts:
-
-  1. **The Prototype** - the main concept and what the group believes we can realistically deliver into a well design prototype that supports the problem space.
-  2. **Future Functionality** - additional functionality that will enhance the user’s experience of the mobile application.
-
-### The Prototype
-The proposed technology intends to stream video or voice recordings of local journalists as a new way of sharing breaking news with an audience, rather than through typed articles. The project aims to facilitate the delivery of news to persons who are unable to visually read news articles. This includes people with vision impairment, auditory learners, or people who are participating in activities that do not allow them to read or use their hands to interact with a mobile device, such as whilst driving or working. 
-
-The application will have two interfaces - one for journalists, and one for the users. In order to begin publishing voice records, journalists will need to create an account and have it authenticated using location services, a captcha code, and an email verification. This will ensure that the content being uploaded is by a human, and they are reporting on stories from a location that is nearby to them. Journalists will then be able to upload voice or video recordings of the news topics they want to deliver to a refined target audience. They must select the category, if it is breaking news, and where it is happening. These audio files will be stored using cloud storage.
-
-In order for the public to use the application, they will need to register for an account with a username, email address, and password. Once users have access, they will be able to select the area they wish to hear news from, the topics they would like to receive notifications about, and subscribe to a particular journalist they are interested in. 
-
-### Future Functionality
-Additional functionality includes the use of audible notifications and voice commands. Once the news recordings have been uploaded to the application, users who are subscribed to receive updates will receive an audible notification with a computerised voice stating one of the following prompts:
-
-* “Breaking news alert”
-* “A new recording has been uploaded for a topic you are following”
-* "A new recording has been uploaded for a journalist you are following"
-* “A new recording has been uploaded for your local area”
-
-Users will then be able to interact with the application by responding with either “listen” or “ignore” after the automated prompts have ceased. If they choose to listen, they will be read the headline, then prompted one more time to either listen or ignore. After listening to the recording, the user will be able to use their voice to command the application to share the story to Facebook, Twitter, or Email, however in the deliverable prototype we will focus on clickable links for this shareable content.
-
-The idea differs from other applications as adding the records to the application is restricted to the journalists. The user can play the records as a stream not individually. The journalists are divided on the basis of their current location and their interest. The journalists have the freedom to add any record without content limitations or supervision. The users can add comments and prompt the journalists about their opinion. The journalists at the same time can interact with the users to clarify their idea.  
-
-### Revenue
-In order to generate revenue, we will be implementing a small monthly subscription based service that will consist of three types of packages to cater for our multiple user groups: 
-
-* A basic plan where freelance journalists are able to upload a single recording per day. This will be free.
-* A freelance plan where individual journalists are able to upload unlimited recordings per day.
-* A series of corporate plans where broadcasters and newspapers are able to have multiple journalists who are able to make as many uploads per day as they wish.
-
-Initially when we deploy the application, we will offer a free 30 day trial to build customer interest.  
-
-### Feedback From Pitch
-
-After presenting the pitch we received feedback that we believe will be beneficial to our project.
-
-* **Will there be an option to mute the application for meetings?**
-
-The application will incorporate a feature similar to Facebook's notification settings. The user will be given an option to mute notifications/alerts for a specified time period, for example 1 hour or disable the alerting option entirely. 
-
-* **Is there a reward system that will offer incentive for users to use this application rather than other mainstream news applications?** 
-
-There will not be a monetary figure for journalists or users, however it will provide another platform for journalists to build their name and recognition, similar to free mainstream news websites. This decision was made as the group intends to target the application for users with a preference for audible content, vision impairment or performing activities such as work that prevent them from reading news articles.  It will simply provide another option for delivering the news than the current websites. 
-
-* **How would a journalist target a specific audience?** 
-
-The group is adopting similar principles to social media sites such as the use of hashtags and search features. The journalist would include tags when they upload their content to target specific audiences.
+JournaListen, a service dedicated to delivering timely news to people living with low visibility or are visually impaired. It is aimed at giving people living with a visual impairment an opportunity to listen to lively news articles and create social interactions.
+This site encourages users with journalistic flair to record news articles for its users. Furthermore, enables the visually impaired to join discussions on breaking news and news articles compelling the user to state their opinion. Thus creating an inclusive environment encouraging social, online interaction for people living with a visual impairment.
 
 # Team
 The team consists of the following four members who possess a variety of skillsets and interests.
@@ -136,9 +87,7 @@ Additionally, the team will be using Slack, Zenhub and GitHub in completion of t
 * **Zenhub** - a project management tool which will facilitate group work, deadlines and scheduling within the group.
 * **GitHub** - facilitates the ability to share source code and store issues and other documentation.
 
-# Plan
-
-### Key Deliverables
+# Key Deliverables
 The project has the following key deliverables:
 
 |Deliverable              |Date        | Percentage |
@@ -148,17 +97,6 @@ The project has the following key deliverables:
 |Week 12 Standup          |21/10/2016  |5%          |
 |Prototype                |28/10/2016  |15%         |
 |Promotional Material     |28/10/2016  |10%         |
-
-### Project Phases
-The project has been divided into 5 key phases and working dates have been allocated for each phase. A significant amount of time has been allocated to the Development phase as this will contain the largest amount of work. 
-
-|Phase                    |Key Tasks                | Dates           |
-|-------------------------|-------------------------|-----------------|
-|1. Requirements Gathering and Analysis |All members involved in pitching of idea and the analysis of feedback received. All requirements to be captured and understood by all members of the project team. Require access to a room for meetings and planning.  |26th Aug - 05 Sep |
-|2. Design           |Gima and Emma - Break down of requirements into realistic time frames. Paper prototyping to be conducted therefore access to PhotoShop is required. Demonstration of paper prototyping in Week 8 Standup.                                    | 06 Sep - 19th Sep |
-|3. Development      |Taylor and Rawan - Development of main requirements and the main interfaces to be built (with minimal functionality) for the Week 10 Standup. Will require access to computers and spaces for meetings.                                   | 20 Sep - 16th Oct |
-|4. Testing          |Gima and Emma - User acceptance testing to be conducted therefore require a set of users. Results from UAT to be presented in Week 12 Standup. Will require access to computers and spaces for meetings.                                    | 17th Oct - 25 Oct |
-|5. Implementation   |Deployment of project in preparation of due date. Additionally the completion of the promotional video therefore video camera and video editing software is required.                                     | 26th Oct      |
 
 # Tags
 The following 5 key concepts have been selected as the tags from the social and mobile lectures:
